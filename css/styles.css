@@ -587,6 +587,7 @@ footer .logo {
   position: absolute;
   top: 50%;
   left: 50%;
+  width: 100%
 
   min-height: 584px;
   background-color: #fcfcfc;
